@@ -3,7 +3,7 @@ library(psych)
 library(forcats)
 library(here)
 
-setwd(paste(here(), "study2", sep="/"))
+setwd("C:/Users/Gabriel/Desktop/Research/AI Art/GitHub/study2")
 getwd()
 
 df <- read.csv("data/study3-315.csv")

@@ -10,7 +10,7 @@ library(rstatix)
 library(patchwork)
 library(here)
 
-setwd(paste(here(), "study2", sep="/"))
+setwd("C:/Users/Gabriel/Desktop/Research/AI Art/GitHub/study2")
 getwd()
 
 df <- read.csv("data/data-clean.csv")

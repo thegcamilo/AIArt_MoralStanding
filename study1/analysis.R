@@ -9,7 +9,7 @@ library(ggplot2)
 library(patchwork)
 library(here)
 
-setwd(paste(here(), "study1", sep="/"))
+setwd("C:/Users/Gabriel/Desktop/Research/AI Art/GitHub/study1")
 getwd()
 
 df <- read.csv("data/data-clean.csv")
